@@ -41,6 +41,10 @@ header{
     margin-right: 15px;
 }
 
+.menu a:hover{
+    color:#017143;
+}
+
 section.sobre{
     height: calc(100% - 200px);
     position: relative;
@@ -88,8 +92,8 @@ section.sobre{
     border:0;
     background-color: #017143;
     color: white;
-    border-radius: 10px;
+    border-radius: 20px;
     width: 100px;
-    height: 30px;
+    height: 35px;
     cursor: pointer;
 }
